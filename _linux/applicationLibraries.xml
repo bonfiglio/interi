@@ -1,0 +1,37 @@
+<application>
+  <component name="libraryTable">
+    <library name="Python 3.6 (interi) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/anaconda3/envs/interi/lib/python3.6" />
+        <root url="file://$USER_HOME$/anaconda3/envs/interi/lib/python3.6/lib-dynload" />
+        <root url="file://$USER_HOME$/anaconda3/envs/interi/lib/python3.6/site-packages" />
+        <root url="file://$USER_HOME$/.IdeaIC2018.1/system/python_stubs/-123661366" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.6" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.5" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.4" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/anaconda3/envs/interi/lib/python3.6" />
+        <root url="file://$USER_HOME$/anaconda3/envs/interi/lib/python3.6/lib-dynload" />
+        <root url="file://$USER_HOME$/anaconda3/envs/interi/lib/python3.6/site-packages" />
+        <root url="file://$USER_HOME$/.IdeaIC2018.1/system/python_stubs/-123661366" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.6" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.5" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.4" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+  </component>
+</application>
